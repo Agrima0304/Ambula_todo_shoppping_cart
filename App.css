@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+  margin: 20px;
+}
+
+nav {
+  margin-bottom: 20px;
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+nav ul li a {
+  text-decoration: none;
+}
+
+.todo,
+.cart,
+.api {
+  margin-bottom: 20px;
+}
